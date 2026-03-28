@@ -6,7 +6,7 @@ from setuptools import setup, find_namespace_packages
 requirements = [
     'xbox-webapi>=1.1.8',
     'construct==2.10.56',
-    'cryptography==2.8',
+    'cryptography==46.0.6',
     'gevent==1.5a3',
     'dpkt',
     'marshmallow-objects',
